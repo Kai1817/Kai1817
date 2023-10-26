@@ -1,12 +1,12 @@
 [![MasterHead](https://th-i.thgim.com/public/incoming/u7j8cp/article66426888.ece/alternates/FREE_1200/Lead%20image.jpg)]
 <h1 align="center">Hi 👋, I'm Kaibalya Biswal</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kai1817&label=Profile%20views&color=0e75b6&style=flat" alt="kai1817" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kai.biswal" target="blank"><img src="https://img.shields.io/twitter/follow/kai.biswal?logo=twitter&style=for-the-badge" alt="kai.biswal" /></a> </p>
+<p align="left"> <a href="https://x.com/kaibiswal18" target="blank"><img src="https://img.shields.io/twitter/follow/kai.biswal?logo=twitter&style=for-the-badge" alt="kai.biswal" /></a> </p>
 
 - 🔭 I’m currently working on **Model Deployment**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Python, SQL, Tableau**
 
-- 📫 How to reach me **Kaibalyabiswal18@gmail.com**
+- 📫 How to reach me **kaibalyabiswal18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
