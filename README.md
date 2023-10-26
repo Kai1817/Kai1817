@@ -1,4 +1,4 @@
-[![MasterHead]([https://science.cmb.ac.lk/wp-content/uploads/2020/12/Center-for-Data-Science-New-Banner.jpg](https://th-i.thgim.com/public/incoming/u7j8cp/article66426888.ece/alternates/FREE_1200/Lead%20image.jpg))]
+[![MasterHead](https://th-i.thgim.com/public/incoming/u7j8cp/article66426888.ece/alternates/FREE_1200/Lead%20image.jpg)]
 <h1 align="center">Hi 👋, I'm Kaibalya Biswal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
