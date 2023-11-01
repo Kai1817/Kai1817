@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://designdatascience.com/projects/](https://designdatascience.com/projects/)
 
-- 💬 Ask me about **Data Science, Machine Learning, Python, SQL, Tableau**
+- 💬 Ask me about **Data Science, Data analytics, Data visualization,Machine Learning, Python, SQL, Tableau**
 
 - 📫 How to reach me **kaibalyabiswal18@gmail.com**
 
