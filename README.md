@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://designdatascience.com/projects/](https://designdatascience.com/projects/)
+- 👨‍💻 All of my projects are available at [https://github.com/Kai1817/](https://github.com/Kai1817/)
 
 - 💬 Ask me about **Data Science, Data analytics, Data visualization,Machine Learning, Python, SQL, Tableau, Statistics**
 
